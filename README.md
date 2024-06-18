@@ -31,7 +31,7 @@
 You can download [**Repository**](https://github.com/IlhamEl777/Fast-First) by cloning it to your system and installing the necessary dependencies:
 ```shell
 ~ >>> git clone https://github.com/IlhamEl777/Fast-First.git
-~ >>> cd Fast-First-main
+~ >>> cd Fast-First
 
 #Linux
 ~/Fast-First >>> python3 -m venv venv
