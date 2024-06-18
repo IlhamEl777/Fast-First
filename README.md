@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/ilham_el)
 
-Link Game: [Fast & First](https://t.me/FirstDuck_bot/FirstDuck?startapp=2061272263)
+## **Link Game**: [Fast & First](https://t.me/FirstDuck_bot/FirstDuck?startapp=2061272263)
 
 ![img1](.github/images/demo.png)
 
