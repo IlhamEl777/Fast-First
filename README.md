@@ -3,8 +3,6 @@
 
 ![img1](.github/images/demo.png)
 
-> 🇷🇺 README на русском доступен [здесь](README.md)
-
 ## Functionality
 | Functional                                            | Supported |
 |-------------------------------------------------------|:---------:|
