@@ -12,7 +12,6 @@
 | Auto-purchase of items if you have coins (**belum ada**)  |     ❌     |
 | Random sleep time between clicks                      |     ✅     |
 | Random number of clicks per request                   |     ✅     |
-| Support tdata / pyrogram .session / telethon .session |     ✅     |
 
 ## [Settings](https://github.com/IlhamEl777/Fast-First/blob/main/.env-example)
 | Setting                | Description                                                                            |
