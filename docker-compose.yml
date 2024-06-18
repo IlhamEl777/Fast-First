@@ -1,7 +1,7 @@
 version: '3'
 services:
   bot:
-    container_name: 'WormSlapBot'
+    container_name: 'FastFirstBot'
     build:
       context: .
     stop_signal: SIGINT
