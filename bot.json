@@ -1,0 +1,8 @@
+{
+  "name": "Bebek",
+  "script": "main.py",
+  "args": [
+    "-a",
+    "2"
+  ]
+}
