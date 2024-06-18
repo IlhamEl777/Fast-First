@@ -14,7 +14,7 @@
 | Support tdata / pyrogram .session / telethon .session |     ✅     |
 
 ## [Settings](https://github.com/IlhamEl777/Fast-First/blob/main/.env-example)
-| Setting                | Description                                                                               |
+| Setting                | Description                                                                            |
 |--------------------------|----------------------------------------------------------------------------------------|
 | **API_ID / API_HASH**    | Platform data from which to launch a Telegram session (stock - Android)                |
 | **MIN_AVAILABLE_ENERGY** | Minimum amount of available energy, upon reaching which there will be a delay (eg 100) |
@@ -24,6 +24,7 @@
 | **APPLY_DAILY_TURBO**    | Whether to use the daily free turbo boost (True / False)  !belum ada!                  |
 | **RANDOM_CLICKS_COUNT**  | Random number of taps (eg 50,200)                                                      |
 | **SLEEP_BETWEEN_SLAP**   | Random delay between taps in seconds (eg 10,25)                                        |
+| **SLEEP_INCORECT_TIME**   | Delay when show message incorect time  (eg 120)                                        |
 | **USE_PROXY_FROM_FILE**  | Whether to use proxy from the `bot/config/proxies.txt` file (True / False)             |
 
 ## Installation
