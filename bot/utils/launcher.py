@@ -9,15 +9,25 @@ from better_proxy import Proxy
 
 from bot.config import settings
 from bot.utils import logger
-from bot.core.slapper import run_slapper
+from bot.core.tapper import run_slapper
 from bot.core.registrator import register_sessions
 
 
 start_text = """
 
-▒█  ▒█ █▀▀█ █▀▀█ █▀▄▀█ ▒█▀▀▀█ █   █▀▀█ █▀▀█ ▒█▀▀█ █▀▀█ ▀▀█▀▀ 
-▒█▒█▒█ █  █ █▄▄▀ █ ▀ █  ▀▀▀▄▄ █   █▄▄█ █  █ ▒█▀▀▄ █  █   █   
-▒█▄▀▄█ ▀▀▀▀ ▀ ▀▀ ▀   ▀ ▒█▄▄▄█ ▀▀▀ ▀  ▀ █▀▀▀ ▒█▄▄█ ▀▀▀▀   ▀   
+' {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+' {} _____ _    ____ _____       ___        _____ ___ ____  ____ _____  {}
+' {}|  ___/ \  / ___|_   _|     ( _ )      |  ___|_ _|  _ \/ ___|_   _| {}
+' {}| |_ / _ \ \___ \ | |       / _ \/\    | |_   | || |_) \___ \ | |   {}
+' {}|  _/ ___ \ ___) || |      | (_>  <    |  _|  | ||  _ < ___) || |   {}
+' {}|_|/_/   \_\____/ |_|       \___/\/    |_|   |___|_| \_\____/ |_|   {}
+' {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+I'm @IlhamEl777 https://github.com/IlhamEl777
+
+Thanks to : 
+[-] @shamhi https://github.com/shamhi
+[-] @akasakaid https://github.com/akasakaid
 
 Select an action:
 
