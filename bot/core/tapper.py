@@ -207,7 +207,7 @@ class Tapper:
                     if active_turbo:
                         tap += settings.ADD_TAP_ON_TURBO
 
-                    tap *= tap_level
+                    # tap *= tap_level
 
                     player_data = await self.send_taps(http_client=http_client, slaps=tap, active_turbo=active_turbo)
 
